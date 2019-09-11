@@ -170,5 +170,26 @@
       "day": 7
     }
     }
-]
+],
+  "products": [
+      [
+      {
+        "id": 1,
+        "name": 'Google P',
+        "quantity": 10,
+        "price": '$600'
+      },
+      {
+        "id": 2,
+        "name": 'onePlus 7 ',
+        "quantity": 15,
+        "price": '$600'
+      },
+      {
+        "id": 3,
+        "name": 'Galaxy S9',
+        "quantity": 15,
+        "price": '$600'
+      }
+    ]
 }
