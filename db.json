@@ -235,22 +235,22 @@
     {
       "id": 1,
       "name": "Groceriesaa & essentials",
-      "color": "plum",
+      "color": "plum"
     },
     {
       "id": 2,
       "name": "Medicines",
-      "color": "#3399ff",
+      "color": "#3399ff"
     },
     {
       "id": 3,
       "name": "Fruits and Vegitables",
-      "color": "#00e6e6",
+      "color": "#00e6e6"
     },
     {
       "id": 4,
       "name": "Meat and Fish",
-      "color": "#ff9980",
+      "color": "#ff9980"
     }
 
   ] 
