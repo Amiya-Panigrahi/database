@@ -234,23 +234,23 @@
   "categories": [
     {
       "id": 1,
-      "name": 'Groceriesaa & essentials',
-      "color": 'plum',
+      "name": "Groceriesaa & essentials",
+      "color": "plum",
     },
     {
       "id": 2,
-      "name": 'Medicines',
-      "color": '#3399ff',
+      "name": "Medicines",
+      "color": "#3399ff",
     },
     {
       "id": 3,
-      "name": 'Fruits and Vegitables',
-      "color": '#00e6e6',
+      "name": "Fruits and Vegitables",
+      "color": "#00e6e6",
     },
     {
       "id": 4,
-      "name": 'Meat and Fish',
-      "color": '#ff9980',
+      "name": "Meat and Fish",
+      "color": "#ff9980",
     }
 
   ] 
